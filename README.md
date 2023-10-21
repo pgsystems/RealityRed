@@ -1,3 +1,6 @@
 # RealityRed
 Programa hecho con Arduino
-Se necesita: Placa de Arduino, leds.
+-------------------------------------
+Se necesita: Placa de Arduino, leds, la app mBlock.
+-------------------------------------
+
